@@ -60,7 +60,7 @@ Let's do a show of hands, who has talked about technical debt in the last week..
 month...
 ever?
 
-What if we add in hearing someone else (otehr than me) talking about it?
+What if we add in hearing someone else (other than me) talking about it?
 
 ---
 One of the main reasons we spend lots of time talking about something is because of how it makes us feel. I'd like to hear some examples of how techncial debt makes us feel?
@@ -95,7 +95,7 @@ Instead, this discussion will be more like a magic trick. I'm going to make some
 
 I like to say, "everything's a tradeoff". And in generally, we're going to discuss why software is the best profession around.
 
-Imagine you were building homes. You might be helping to draw plans, you might be helping with construction, or you might be helping to inspect the results. Or following all the parallel paths here, you might build things, systems, rules, automation, or anything to make this ecosystem function.
+My friend Genevieve, she's building a new home. Let's pretend she's our customer and walk through the process of building for her. First, we're going to draw her some plans, you might be helping with construction, or you might be helping to inspect the results. Or following all the parallel paths here, you might build things, systems, rules, automation, or anything to make this ecosystem function.
 
 Now let's imagine we were discussing a change to a house we're building. I want you to build out this kitchen to see how it works, put all the counter and fixtures in, paint it, but don't hook up all the plumbing an electricty because I just want to see how it works first so I can make changes if it's not right.
 
@@ -163,6 +163,10 @@ graph of rework required over time
 
 This doesn't look like debt to me. This is some sort of credit default swap
 
+
+
+---
+# Appendix
 
 let's consider a different scenario
 
